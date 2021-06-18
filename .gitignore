@@ -1,0 +1,36 @@
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Translations
+*.mo
+*.pot
+
+# DotEnv configuration
+.env
+
+# environment config
+.envrc
+
+# Database
+*.db
+*.rdb
+
+# VS Code
+.vscode/
+
+# Mac OS-specific storage files
+.DS_Store
+
+# vim
+*.swp
+*.swo
+.vimrc
+
+recordings/
